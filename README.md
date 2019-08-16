@@ -4,8 +4,7 @@ Este projecto consiste en una LinkedList de elementos tipo Double con los metodo
 
 ## Classes
 
-![Modelo](https://www.planttext.com/plantuml/svg/UhzxlqDnIM9HIMbk3XTNSavYSR62JsPUTcgAJsPnYK8rbm8Gf6KM5PTOANYMfEQ2-K1Lo5nTNJ2Lc9AYeGbc5QNcvfUbGZcvgObvK2RGehoKnA8KbzIopCIIp7oGU2tCLf1nKFlA4dDAKwqKNF9Bat9ImI9vgHKm6u4Qa1oegsi74NP8pKi1-W4Wm000)
-
+![Modelo](http://www.plantuml.com/plantuml/png/LOun2W8n44NxFKLABNA1BMIBROIznEXy8JX983C9WdXttPX2q-J_1pDl5ZKgLgDCqrL8rMqXtS5RK7FFoNtUBHIrsPqDiNUXl-fz_uZvSEof8EQ6KI8eZQX6YQdmYXR8GjxvQrZxkk5h91MpMtEz23f9U0pZFl1peFUdBrwGk4Pv0m00)
 
 ## Versioning
 
